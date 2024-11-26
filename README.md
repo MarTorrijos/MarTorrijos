@@ -1,6 +1,6 @@
 # Hi, I'm Mar 👋
 
-I'm a Java and Backend development student.
+I'm a student of Java and Backend development.
 
 
 <!--
