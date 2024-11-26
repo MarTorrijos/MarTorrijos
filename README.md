@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Mar 👋
+
+I'm a Java and Backend development student.
+
 
 <!--
 **MarTorrijos/MarTorrijos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
