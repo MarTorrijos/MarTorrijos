@@ -1,6 +1,6 @@
 # Hi, I'm Mar 👋
 
-I'm a student of Java and Backend development.
+I'm a student of Java and Backend development at IT Academy, Barcelona
 
 
 <!--
