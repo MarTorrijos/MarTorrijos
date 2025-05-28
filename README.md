@@ -1,7 +1,8 @@
 # Hi, I'm Mar 👋
 
-I'm a student of Java and Backend development at IT Academy, Barcelona
+I’m a Java and Backend Development student at IT Academy, Barcelona.
 
+Currently finishing my studies and seeking opportunities to collaborate, contribute to projects, and grow professionally in the field.
 
 <!--
 **MarTorrijos/MarTorrijos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
