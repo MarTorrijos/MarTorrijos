@@ -13,7 +13,7 @@ Currently finishing my studies and seeking opportunities to collaborate, contrib
 - Build Tools: Gradle
 - Database Management: MySQL, MongoDB, PhpMyAdmin
 - Testing: JUnit, Postman (API Testing)
-- Version Control: Git, GitHub
+- Version Control: Git, GitHub, Lazygit
 
 ***
 
