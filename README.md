@@ -8,12 +8,12 @@ Currently finishing my studies and seeking opportunities to collaborate, contrib
 
 ### Technologies & Skills
 
-- Programming Languages: Java
-- Frameworks & Libraries: Spring Boot
-- Build Tools: Gradle
-- Database Management: MySQL, MongoDB, PhpMyAdmin
-- Testing: JUnit, Postman (API Testing)
-- Version Control: Git, GitHub, Lazygit
+- **Programming Languages:** Java
+- **Frameworks & Libraries:** Spring Boot
+- **Build Tools:** Gradle, Maven
+- **Database Management:** MySQL, MongoDB, PhpMyAdmin
+- **Testing:** JUnit, Postman (API Testing)
+- **Version Control:** Git, GitHub, Lazygit
 
 ***
 
