@@ -25,7 +25,7 @@ Before diving into tech, I worked in video marketing, where I got the chance to 
 - Mentoring junior video artists, helping them level up their skills
 - Working with cross-functional teams to deliver content on time and to a high standard
 
-While my background isn’t in coding, I’ve learned that these skills—whether it’s managing projects or collaborating with others—are super valuable in any professional setting, including software development.
+While my background isn’t in coding, I’ve learned that these skills are valuable in any professional setting.
 
 ***
 
