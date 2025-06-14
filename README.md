@@ -4,17 +4,36 @@ I’m a Java and Backend Development student at IT Academy, Barcelona.
 
 Currently finishing my studies and seeking opportunities to collaborate, contribute to projects, and grow professionally in the field.
 
-<!--
-**MarTorrijos/MarTorrijos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+### Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: Java
+- Frameworks & Libraries: Spring Boot
+- Build Tools: Gradle
+- Database Management: MySQL, MongoDB, PhpMyAdmin
+- Testing: JUnit, Postman (API Testing)
+- Version Control: Git, GitHub
+
+***
+
+### A Bit About Me
+
+Before diving into tech, I worked in video marketing, where I got the chance to lead projects both solo and with teams. Some of the things I did:
+
+- Creating videos from concept to final cut
+- Mentoring junior video artists, helping them level up their skills
+- Working with cross-functional teams to deliver content on time and to a high standard
+
+While my background isn’t in coding, I’ve learned that these skills—whether it’s managing projects or collaborating with others—are super valuable in any professional setting, including software development.
+
+***
+
+### Feel free to get in touch!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/martorrijos/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:martorrijos@protonmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@bluemarumusic/featured)
+
+
+
