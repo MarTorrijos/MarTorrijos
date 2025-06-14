@@ -19,7 +19,9 @@ Currently finishing my studies and seeking opportunities to collaborate, contrib
 
 ### A Bit About Me
 
-Before diving into tech, I worked in video marketing, where I got the chance to lead projects both solo and with teams. Some of the things I did:
+Before diving into tech, I worked in video marketing, where I got the chance to lead projects both solo and with teams.
+
+Some of the things I did:
 
 - Creating videos from concept to final cut
 - Mentoring junior video artists, helping them level up their skills
