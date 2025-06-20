@@ -9,10 +9,10 @@ Currently finishing my studies and seeking opportunities to collaborate, contrib
 ### Technologies & Skills
 
 - **Programming Languages:** Java
-- **Frameworks & Libraries:** Spring Boot
+- **Frameworks & Libraries:** Spring Boot, Spring WebFlux
 - **Build Tools:** Gradle, Maven
-- **Database Management:** MySQL, MongoDB, PhpMyAdmin
-- **Testing:** JUnit, Postman (API Testing)
+- **Databases & Tools:** MySQL, MongoDB, PhpMyAdmin, MongoDB Compass
+- **Testing:** JUnit, Postman (API Testing), Mockito
 - **Version Control:** Git, GitHub, Lazygit
 
 ***
