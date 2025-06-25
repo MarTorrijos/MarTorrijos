@@ -9,7 +9,7 @@ Currently finishing my studies and seeking opportunities to collaborate, contrib
 ### Technologies & Skills
 
 - **Programming Languages:** Java
-- **Frameworks & Libraries:** Spring Boot, Spring WebFlux
+- **Frameworks & Libraries:** Spring Boot
 - **Build Tools:** Gradle, Maven
 - **Databases & Tools:** MySQL, MongoDB, PhpMyAdmin, MongoDB Compass
 - **Testing:** JUnit, Postman (API Testing), Mockito
