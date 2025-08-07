@@ -1,8 +1,8 @@
 # Hi, I'm Mar 👋
 
-I’m a Java and Backend Development student at IT Academy, Barcelona.
+I’m a Java and Backend developer.
 
-Currently finishing my studies and seeking opportunities to collaborate, contribute to projects, and grow professionally in the field.
+I've just finished my studies at IT Academy Barcelona and I'm seeking opportunities to collaborate, contribute to projects, and grow professionally in the field.
 
 ***
 
