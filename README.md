@@ -14,6 +14,7 @@ I've just finished my studies at IT Academy Barcelona and I'm seeking opportunit
 - **Database Tools:** PhpMyAdmin, MongoDB Compass
 - **Testing:** JUnit, Mockito, Postman (API Testing), TDD
 - **Build tools:** Gradle, Maven
+- **Logging:** Log4j
 - **Version control:** Git, GitHub, Lazygit (GUI for Git)
 
 ***
