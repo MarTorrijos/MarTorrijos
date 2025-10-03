@@ -1,8 +1,8 @@
 # Hi, I'm Mar 👋
 
-I’m a Java and Backend developer.
+I’m a Java and Backend developer with a strong focus on building robust, scalable systems.
 
-I've just finished my studies at IT Academy Barcelona and I'm seeking opportunities to collaborate, contribute to projects, and grow professionally in the field.
+Currently open to collaborating on backend projects, contributing to development teams, and continuing to grow in complex technical environments.
 
 ***
 
@@ -19,7 +19,7 @@ I've just finished my studies at IT Academy Barcelona and I'm seeking opportunit
 
 ***
 
-### A Bit About Me
+### My Background
 
 Before diving into tech, I worked in video marketing, where I got the chance to lead projects both solo and with teams.
 
@@ -28,8 +28,7 @@ Some of the things I did:
 - Creating videos from concept to final cut
 - Mentoring junior video artists, helping them level up their skills
 - Working with cross-functional teams to deliver content on time and to a high standard
-
-While my background isn’t in coding, I’ve learned that these skills are valuable in any professional setting.
+ 
 
 ***
 
