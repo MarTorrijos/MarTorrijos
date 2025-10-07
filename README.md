@@ -16,19 +16,7 @@ Currently open to collaborating on backend projects, contributing to development
 - **Build tools:** Gradle, Maven
 - **Logging:** Log4j
 - **Version control:** Git, GitHub, Lazygit (GUI for Git)
-
-***
-
-### My Background
-
-Before diving into tech, I worked in video marketing, where I got the chance to lead projects both solo and with teams.
-
-Some of the things I did:
-
-- Creating videos from concept to final cut
-- Mentoring junior video artists, helping them level up their skills
-- Working with cross-functional teams to deliver content on time and to a high standard
- 
+  
 
 ***
 
