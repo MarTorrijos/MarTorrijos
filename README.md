@@ -20,7 +20,6 @@ Currently open to collaborating on backend projects, contributing to development
 
 ***
 
-### Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MarTorrijos&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarTorrijos&layout=compact&theme=github_dark_dimmed" alt="Top Langs" height="180" />
