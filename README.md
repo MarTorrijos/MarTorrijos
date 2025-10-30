@@ -12,7 +12,7 @@ Currently open to collaborating on backend projects, contributing to development
 - **Frameworks & libraries:** Spring Boot
 - **Databases:** MySQL, MongoDB  
 - **Database Tools:** PhpMyAdmin, MongoDB Compass
-- **Testing:** JUnit, Mockito, Postman (API Testing), TDD
+- **Testing:** JUnit, Mockito, JaCoCo, Postman (API Testing)
 - **Build tools:** Gradle, Maven
 - **Logging:** Log4j
 - **Version control:** Git, GitHub, Lazygit (GUI for Git)
